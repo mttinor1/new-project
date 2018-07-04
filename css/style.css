@@ -1,0 +1,17 @@
+body {
+  background: #000; }
+  body p {
+    color: red; }
+
+.mehdi {
+  color: red; }
+
+.a {
+  background: transparent url("image.png") left top no-repeat; }
+
+div h1 {
+  background: red;
+  text-align: center;
+  outline: all; }
+
+/*# sourceMappingURL=style.css.map */
